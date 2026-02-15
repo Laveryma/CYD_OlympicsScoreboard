@@ -1,6 +1,7 @@
 # CYD Olympic Scoreboard (Milano Cortina 2026)
 
-<img width="1390" height="740" alt="MedalStandings" src="https://github.com/user-attachments/assets/aa4b643c-e213-4a43-b5a5-417ae233abe6" />
+<img width="1390" height="740" alt="MedalStandings" src="https://github.com/user-attachments/assets/aa4b643c-e213-4a43-b5a5-417ae233abe6" /><img width="1390" height="740" alt="TodayCompetitions" src="https://github.com/user-attachments/assets/7ffb7889-9056-4d62-98ce-aba8489cb0af" />
+
 
 ESP32-2432S028 (CYD) firmware for an Olympics dashboard with:
 
@@ -88,5 +89,6 @@ See `README_AUDIO.md` for audio format details.
 If you enjoy what I’m making and want to support more late-night builds, experiments, and ideas turning into reality, it's genuinely appreciated.
 
 [<img src="docs/buymeacoffee-icon.svg" alt="Buy Me a Coffee" width="36" /> Buy Me a Coffee](https://buymeacoffee.com/zerocypherxiii)
+
 
 
