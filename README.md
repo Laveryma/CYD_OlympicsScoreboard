@@ -64,7 +64,7 @@ Use `include/config.example.h` as the template when creating a new config.
 
 Expected paths under `data/`:
 
-- `data/audio/o_canada.wav`
+- `data/audio/o_canada.wav` <--find and update if your not lucky enough to be Canadian :) must be .wav, 8-bit works if size is an issue, best audio if 16-bit
 - `data/flags/56/<NOC>.png`
 - `data/flags/64/<NOC>.png`
 - `data/flags/96/<NOC>.png`
@@ -86,3 +86,4 @@ See `README_AUDIO.md` for audio format details.
 If you enjoy what I’m making and want to support more late-night builds, experiments, and ideas turning into reality, it's genuinely appreciated.
 
 [<img src="docs/buymeacoffee-icon.svg" alt="Buy Me a Coffee" width="36" /> Buy Me a Coffee](https://buymeacoffee.com/zerocypherxiii)
+
