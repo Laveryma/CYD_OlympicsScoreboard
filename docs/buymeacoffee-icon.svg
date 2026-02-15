@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Buy Me a Coffee</title>
+  <rect width="64" height="64" fill="none"/>
+  <ellipse cx="32" cy="18" rx="14" ry="5" fill="#FFE44D" stroke="#111" stroke-width="2"/>
+  <path d="M19 18v24c0 8 26 8 26 0V18" fill="#FFE44D" stroke="#111" stroke-width="2"/>
+  <path d="M23 45h18" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+  <path d="M29 11c-2 3-1 5 2 7" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+  <path d="M35 9c-2 3-1 5 2 7" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+</svg>
