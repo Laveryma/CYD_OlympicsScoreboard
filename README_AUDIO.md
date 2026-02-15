@@ -1,6 +1,6 @@
 # Audio: Medal Alert Playback
 
-The firmware can play `O Canada` during favorite-country medal alerts.
+The firmware can play `O Canada` (or any .wav you choose to upload) during favorite-country medal alerts.
 
 ## Trigger
 
@@ -37,3 +37,4 @@ pio run -e esp32-cyd-sdfix -t uploadfs
 - During playback, each BOOT button click decreases gain by `10%` down to `0%`
 - DAC output pins are controlled by `ANTHEM_DAC_PIN` and `ANTHEM_DAC_PIN_ALT` in `include/config.h`
 - Default output gain is set by `ANTHEM_GAIN_PCT`
+
