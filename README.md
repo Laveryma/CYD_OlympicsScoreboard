@@ -61,7 +61,7 @@ Edit `include/config.h`:
 - `TZ_INFO` (local time/countdown display)
 - `ANTHEM_DAC_PIN`, `ANTHEM_DAC_PIN_ALT`, `ANTHEM_GAIN_PCT`
 
-Use `include/config.example.h` as the template when creating a new config.
+Use `include/config.example.h` for reference.
 
 ## SPIFFS Assets
 
@@ -89,6 +89,7 @@ See `README_AUDIO.md` for audio format details.
 If you enjoy what I’m making and want to support more late-night builds, experiments, and ideas turning into reality, it's genuinely appreciated.
 
 [<img src="docs/buymeacoffee-icon.svg" alt="Buy Me a Coffee" width="36" /> Buy Me a Coffee](https://buymeacoffee.com/zerocypherxiii)
+
 
 
 
